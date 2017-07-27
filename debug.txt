@@ -1,0 +1,12 @@
+jul 25, 2017 7:34:37 AM com.jme.app.BaseGame start
+INFORMA합ES: Application started.
+jul 25, 2017 7:34:38 AM com.jme.system.PropertiesIO <init>
+INFORMA합ES: PropertiesIO created
+jul 25, 2017 7:34:38 AM com.jme.system.PropertiesIO load
+INFORMA합ES: Read properties
+jul 25, 2017 7:34:38 AM com.jme.app.BaseSimpleGame cleanup
+INFORMA합ES: Cleaning up resources.
+jul 25, 2017 7:34:38 AM com.jme.system.lwjgl.LWJGLDisplaySystem <init>
+INFORMA합ES: LWJGL Display System created.
+jul 25, 2017 7:34:38 AM com.jme.app.BaseGame start
+INFORMA합ES: Application ending.
